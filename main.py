@@ -28,6 +28,7 @@ CLOUD = pygame.image.load(os.path.join("Assets/Other", "Cloud.png"))
 
 BG = pygame.image.load(os.path.join("Assets/Other", "Track.png"))
 
+#ANDREA
 
 class Dinosaur:
     X_POS = 80
